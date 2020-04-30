@@ -13,7 +13,7 @@ Glboal Recovered cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-1
 Reference:
 https://github.com/imdevskp/covid_19_jhu_data_web_scrap_and_cleaning
 
-video Tutorial:
+Video Tutorial:
 https://www.youtube.com/watch?v=ZNi_3bcutkY
 
 Time Series Models:
@@ -27,8 +27,7 @@ https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python
 
 Kaggle Notebook:
 
-https://www.kaggle.com/uzairadamjee/analyze-forecasting-covid-19-data/edit
-
+https://www.kaggle.com/uzairadamjee/analyze-forecasting-covid-19-data
 
 
 
