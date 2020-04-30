@@ -13,6 +13,8 @@ Glboal Recovered cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-1
 Reference:
 https://github.com/imdevskp/covid_19_jhu_data_web_scrap_and_cleaning
 
+video Tutorial:
+https://www.youtube.com/watch?v=ZNi_3bcutkY
 
 Time Series Models:
 
